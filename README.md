@@ -28,7 +28,7 @@ As a user I want to be able to at notes and subtask
 As a user I would like to be able to move a task to another board
 As a user I would like to be able to add a priority to a task 
 
-Planning Links
+Planning Links:
 ERD - https://dbdiagram.io/d/600de09680d742080a37a6fc 
 Wireframes - https://sketchboard.me/nCxdrSEDFVb#/ 
 
