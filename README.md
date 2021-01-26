@@ -1,7 +1,9 @@
 # TaskIt
 
 Contact Info
+
 Name: Faith Magras
+
 Email Address: bdanielle092@gmail.com
 
 
@@ -35,7 +37,9 @@ Wireframes - https://sketchboard.me/nCxdrSEDFVb#/
 
 
 Research Planning Links or Documents:
+
 I looked on dribble for my initial research
+
 I also looked at four different tasks apps on my phone
 1. Todoist
 2. Notepad
